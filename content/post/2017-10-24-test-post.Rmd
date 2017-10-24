@@ -1,0 +1,12 @@
+---
+title: Test post
+author: Or Levkovich
+date: '2017-10-24'
+slug: test-post
+categories: []
+tags:
+  - regression
+---
+
+This is my test post. 
+Here I write new things.
